@@ -2,8 +2,8 @@
 Model-measurement comparison of biomass burning aerosol over West Africa
 
 # Authors
-John Smith Master
-Jakob Jorgensen
+John Smith Master, University of SomewhereElse
+Jakob Jorgensen, University of Manchester
 
 # Add reference to second paper.
 
