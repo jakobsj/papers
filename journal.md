@@ -1,5 +1,8 @@
-# Add author names and paper title.
+# Title
+New master title
 
-# Write introduction section.
+# Authors
+Jakob Jorgensen
+John Smith Master
 
 # Add reference to second paper.
