@@ -5,6 +5,10 @@ Model-measurement comparison of biomass burning aerosol over West Africa
 John Smith Master, University of SomewhereElse
 Jakob Jorgensen, University of Manchester
 
+# Abstract
+Write this bit last.
+Summarise key points, this is the only bit that will be read, in addition to the figures.
+
 # Add reference to second paper.
 
 # Simulations
