@@ -21,3 +21,6 @@ This is a draft, so the figures fo in a section of their own.
 
 # Conclusions
 We did some science. It was great. More science needs to happen, so funding should be applied for.
+
+# Acknowledgments
+THank you supervisor.
