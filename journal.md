@@ -1,5 +1,8 @@
-# Add author names and paper title.
+# Title
+Old title
 
-# Write introduction section.
+# Authors
+Jakob Jorgensen
+John Doe
 
 # Add reference to second paper.
